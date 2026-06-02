@@ -1,0 +1,6 @@
+{
+  "name": "Indian Stock Market AI Analyst",
+  "description": "An AI-native full-stack wealth copilot for Indian retail stock invest portfolios with option PCR chains, technical indicators, and screens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
